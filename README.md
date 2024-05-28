@@ -6,8 +6,8 @@ Playwright Automation Framework Setup
 3. npm i
 4. npx playwright install
 
-🚀 To run the tests use-   "npx playwright test" 
+🚀 To run the tests use -   "npx playwright test" 
 
-📊 To show report after testing use-  "npx playwright show-report" 
+📊 To show report after testing use -  "npx playwright show-report" 
 
 Happy Testing!! 😉
