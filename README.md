@@ -5,10 +5,8 @@ Playwright Automation Framework Setup
 2. Drag and drop the folder into VS-Code. 🖥️
 3. Run "npm i"
 
-To run the tests use: 
-    "npx playwright test" 🚀
+To run the tests use:   "npx playwright test" 🚀
 
-To show report after testing use: 
-    "npx playwright show-report" 📊
+To show report after testing use:  "npx playwright show-report" 📊
 
 Happy Testing!! 😉
