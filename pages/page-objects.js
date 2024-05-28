@@ -6,7 +6,7 @@ class BasePage {
 
     //use this page for the page object model. 
     async NameOfTheFuncion() {
-        await page.pause(); 
+        await this.page.pause(); 
     }
 }
 
